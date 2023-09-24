@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.33389880395765, 30.48217239187204]
+      },
+      "properties": {
+        "name": "刮差",
+        "level": 1,
+        "car_num": "鄂A00024",
+        "driver": "吴家栋",
+        "phone": 13712247709,
+        "id": 10001,
+        "event_num": "SJ100000",
+        "area": "珞狮南路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.37293654592321, 30.482407941904313]
+      },
+      "properties": {
+        "name": "碰撞",
+        "level": 2,
+        "car_num": "鄂A00025",
+        "driver": "张三丰",
+        "phone": 17712247709,
+        "id": 10001,
+        "event_num": "SJ100001",
+        "area": "南湖大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.39477220245044, 30.50761371587241]
+      },
+      "properties": {
+        "name": "翻车",
+        "level": 3,
+        "car_num": "鄂A10025",
+        "driver": "李小龙",
+        "phone": 18712247709,
+        "id": 10002,
+        "event_num": "SJ100002",
+        "area": "光谷转盘"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.38432268853552, 30.464214924336574]
+      },
+      "properties": {
+        "name": "碰撞",
+        "level": 2,
+        "car_num": "鄂A30035",
+        "driver": "地小龙",
+        "phone": 19712247709,
+        "id": 10002,
+        "event_num": "SJ100005",
+        "area": "软件园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.35695184479272, 30.51151205145601]
+      },
+      "properties": {
+        "name": "着火",
+        "level": 3,
+        "car_num": "鄂A40035",
+        "driver": "李一峰",
+        "phone": 16712247709,
+        "id": 10005,
+        "event_num": "SJ100006",
+        "area": "雄楚大道"
+      }
+    }
+  ]
+}
